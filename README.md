@@ -19,7 +19,8 @@ Le sujet de base est simple : Il faut créer une page permettant de suivre le sc
 ### Les pré-requis
 
 * Lors d'une première étape on demandera à l'utilisateur de saisir le déroulé sous forme d'une chaîne.
-  Les chaînes saisies seront la suite du nombre de quilles qui tombent à chaque lancer. Dans cette chaîne de caractères un X signifie un strike, un / signifie un spare et un - signifie un manqué. Exemples de chaînes :
+  Les chaînes saisies seront la suite du nombre de quilles qui tombent à chaque lancer. Dans cette chaîne de caractères un X signifie un strike, un / signifie un spare et un - signifie un manqué. Exemples de chaînes : 
+```XXXXXXXXXXXX```, ```9-9-9-9-9-9-9-9-9-9-```
 * Dans une seconde étape on affichera le score et le déroulé sous forme de tableau
 
 ### Les règles
