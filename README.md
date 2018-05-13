@@ -36,7 +36,7 @@ A chaque frame, le joueur lance donc une ou deux boules afin de faire tomber les
 
  * XXXXXXXXXXXX (la partie parfaite) rapporte 300 points
  * 9-9-9-9-9-9-9-9-9-9- rapporte 90 points
- * 5/5/5/5/5/5/5/5/5/5/ rapporte 150 points
+ * 5/5/5/5/5/5/5/5/5/5/5 rapporte 150 points
 
 ### Bonus
 
